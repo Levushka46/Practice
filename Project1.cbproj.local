@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.051,D:\Projekti\Unit1.cpp=D:\Uroki\Kudinov\Cursovaia 2 curs 1 sem\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=D:\Projekti\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,D:\Projekti\Project1PCH1.h=D:\Uroki\Kudinov\Cursovaia 2 curs 1 sem\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,=D:\Projekti\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,D:\Projekti\Unit1.h=D:\Uroki\Kudinov\Cursovaia 2 curs 1 sem\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,D:\Projekti\Project1.cbproj=D:\Uroki\Kudinov\Cursovaia 2 curs 1 sem\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,D:\Projekti\Unit1.dfm=D:\Uroki\Kudinov\Cursovaia 2 curs 1 sem\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
